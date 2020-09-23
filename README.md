@@ -1,0 +1,1 @@
+# terraform-vault-aws-auth-method
